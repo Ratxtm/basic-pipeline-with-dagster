@@ -8,7 +8,7 @@ Next navigate to the directory where the hello_world.py file. Install dagit usin
 
 `pip install dagit`
 
-Once install, fire up the localhost to visualize the pipeline in dagit:
+Once installed, fire up the localhost to visualize the pipeline in dagit:
 
 `dagit -f hello_world.py`
 
